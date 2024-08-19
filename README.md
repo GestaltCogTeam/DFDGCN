@@ -19,4 +19,10 @@ We appreciate you reviewing our work and you can use it if you want to cite it:
 }
 ```
 
+**Acknowledgement:**
+
+Our work is developed based on BasicTS, if you are interested in more work on time series forecasting, you can refer to this Standard and Fair Time Series Forecasting Benchmark and Toolkit: https://github.com/GestaltCogTeam/BasicTS
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GestaltCogTeam/BasicTS)
+
 If you have questions please email liyujie23s@ict.ac.cn or liyujie231@mails.ucas.ac.cn
